@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<head>
+
+
+<meta charset="utf-8">
+<meta name="revolving chairs" content="revolving office chairs premium quality">
+<meta name="cafe chairs" content="CAFE CHAIRS FOR HOME PREMIUM QUALITY">
+<meta name="CENTER TABLE" content="CENTER TABLE FOR BOTH OFFICES AND HOMES PREMIUM QUALITY">
+<title>Untitled Document</title>
+<link href="html5up-editorial/assets/css/main.css" rel="stylesheet" type="text/css">
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+  document.body.style.backgroundColor = "white";
+}
+
+
+
+</script>
+<style>
+table{ background-color:white;
+	 }
+</style>
+</head>
+<body>
+<table>
+
+<tr>
+<td>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="services.html" target="_blank">Services</a>
+  <a href="https://www.amazon.in/s?k=chairs&ref=nb_sb_noss_2">SHOP ON AMAZON</a>
+  <ol type="i">
+  <li>
+	<a href="https://www.amazon.in/TIED-RIBBONS-Designer-Living-Office/dp/B07H7M24ST/ref=sr_1_14?crid=26R02G7QPF9HQ&keywords=cafe+chair&qid=1573885410&sprefix=cafe+cha%2Caps%2C263&sr=8-14" target="_blank">CAFE CHAIR</a>
+   </li><li> <a href="https://www.amazon.in/Nice-Selling-Executive-Chair-Revolving/dp/B07D5Y9RV3/ref=sr_1_37?keywords=revolving+chair&qid=1573885497&sr=8-37" target="_blank">REVOLVING CHAIR</a></li>
+  <li>  <a href="https://www.amazon.in/Corazzin-Furniture-Wooden-Center-Coffee/dp/B07P199YJN/ref=sr_1_4_sspa?keywords=round+center+table&qid=1573885583&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE4RTI1MVYxWk5SOTYmZW5jcnlwdGVkSWQ9QTA5Mjk2NjBaNEhKT0pESEtET1EmZW5jcnlwdGVkQWRJZD1BMDgyNTgxMzFCU0tTRTJDNENWMTQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl" target="_blank">CENTER TABLE</a>
+  </li>
+  </ol>
+  <a href="contact.html" target="_blank">Contact</a>
+</div>
+
+<div id="main">
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+</div>
+
+<t><h1>Shaninath Marketing</h1>
+</td>
+</tr>
+
+<tr>
+<td>
+<br><br>
+<p id="dh1">Shantinath marketing is one of the major raw material supplier in Ahmedabad, from our roots in diamond and jewellry our <strong>product quality</strong><br>of our range of products are our top most priority</p>
+
+<ol type="1" style="font-size:17px">
+<strong><li>Chairs</li></strong>
+<strong><li>Raw Materials</li></strong>
+<strong><li>Raxine</li></strong>
+<strong><li>Center Table    </li></strong>
+</ol>
+<!-- <p id="dh1">We are one of the major chair dealers in the market and we stand for the quality and a stand out  product</p> -->
+<br>
+<br>
+<h2 style="color:rgba(0,0,0,1.00)" >Our range of Products</h2>
+<hr id="outline">
+
+<h3 style="font-size:20px">Cafe Chairs</h3>
+<hr>
+
+<img src="cafe chair.jpg" height="200" width="200">
+<p>Chairs for cafe and also for domestic needs, buy it from amazon <strong>Trusted and Secure</strong></p>
+
+<h3 style="font-size:20px">Revolving Chairs</h3>
+<hr>
+
+<img src="images.jpg" height="270" width="200">
+<p>Revolving Chairs for office study and personal use, buy it from amazon <strong>Trusted and Secure</strong></p>
+<hr>
+<br>
+
+<h3 style="font-size:20px">Raw Materials</h3>
+<hr>
+<br>
+
+<h3 style="font-size:20px">Recron</h3>
+<hr>
+<p>Recron of all quality virgin and semi virgin are available contact for further inquries</p>
+
+<h3 style="font-size:20px">Raxine</h3>
+<hr>
+<img src="raxine.jpg" height="200" width="190">
+<p>We are dealer of <b>Roseli</b> Raxine in ahmedabad.<br>Roseli is considered the best artificial leather due to its <b>texture </b>,<b>durablity </b>,<b>colors</b><br>Roseli is used by many industry leading companies like <b>Tata , Hyundai</b> in their seat leather</p>
+
+<br>
+
+<h3 style="font-size:20px">Center Table</h3>
+<hr>
+<br>
+<img src="epoxy.jpg" height="200" width="190">
+<p>We are also dealing in epoxy based furniture namely centre table and dining table for further inquries <strong>contact us</strong></p>
+
+  
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
